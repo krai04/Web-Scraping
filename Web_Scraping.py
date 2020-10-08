@@ -13,3 +13,6 @@ for k in range(50):
             allpur = i
             allpur = allpur[16:-5]
             print(k, allpur)
+# Good Code!
+# Review : 5/5
+# Reviewed by : Simran Jariwala
